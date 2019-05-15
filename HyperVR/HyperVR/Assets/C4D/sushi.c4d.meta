@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: f8c63533b70da6b46a30b8730494f196
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: "Deckfl\xE4che_1"
+    100002: "Deckfl\xE4che_2"
+    100004: Fish
+    100006: Rice
+    100008: Rundung_1
+    100010: Rundung_2
+    100012: //RootNode
+    100014: Tang
+    100016: Fish_2
+    100018: Rice_2
+    100020: Sushi
+    100022: Sushi_2
+    100024: Weed
+    100026: Egg_Sushi
+    100028: Fish_3
+    100030: Rice_3
+    100032: Sake_Sushi
+    100034: Tuna_Sushi
+    100036: Weed_2
+    100038: Weed_3
+    100040: Maki
+    100042: Maki_2
+    100044: Sake_Maki
+    100046: Tuna_Maki
+    100048: Kappa_Maki
+    100050: Maki_3
+    400000: "Deckfl\xE4che_1"
+    400002: "Deckfl\xE4che_2"
+    400004: Fish
+    400006: Rice
+    400008: Rundung_1
+    400010: Rundung_2
+    400012: //RootNode
+    400014: Tang
+    400016: Fish_2
+    400018: Rice_2
+    400020: Sushi
+    400022: Sushi_2
+    400024: Weed
+    400026: Egg_Sushi
+    400028: Fish_3
+    400030: Rice_3
+    400032: Sake_Sushi
+    400034: Tuna_Sushi
+    400036: Weed_2
+    400038: Weed_3
+    400040: Maki
+    400042: Maki_2
+    400044: Sake_Maki
+    400046: Tuna_Maki
+    400048: Kappa_Maki
+    400050: Maki_3
+    2100000: No Name
+    2100002: sushigame
+    2300000: "Deckfl\xE4che_1"
+    2300002: "Deckfl\xE4che_2"
+    2300004: Fish
+    2300006: Rice
+    2300008: Rundung_1
+    2300010: Rundung_2
+    2300012: Tang
+    2300014: Fish_2
+    2300016: Rice_2
+    2300018: Weed
+    2300020: Fish_3
+    2300022: Rice_3
+    2300024: Weed_2
+    2300026: Weed_3
+    2300028: Maki
+    2300030: Maki_2
+    2300032: Maki_3
+    3300000: "Deckfl\xE4che_1"
+    3300002: "Deckfl\xE4che_2"
+    3300004: Fish
+    3300006: Rice
+    3300008: Rundung_1
+    3300010: Rundung_2
+    3300012: Tang
+    3300014: Fish_2
+    3300016: Rice_2
+    3300018: Weed
+    3300020: Fish_3
+    3300022: Rice_3
+    3300024: Weed_2
+    3300026: Weed_3
+    3300028: Maki
+    3300030: Maki_2
+    3300032: Maki_3
+    4300000: Tang
+    4300002: Fish
+    4300004: Rundung_1
+    4300006: "Deckfl\xE4che_1"
+    4300008: Rundung_2
+    4300010: "Deckfl\xE4che_2"
+    4300012: Rice
+    4300014: Weed
+    4300016: Fish_2
+    4300018: Rice_2
+    4300020: Weed_2
+    4300022: Weed_3
+    4300024: Fish_3
+    4300026: Rice_3
+    4300028: Maki
+    4300030: Maki_2
+    4300032: Maki_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
